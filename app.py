@@ -359,7 +359,7 @@ DASHBOARD_HTML = '''
             <p>• Ekip raporlarını görüntüle</p>
             <p>• Kaynakları yönet</p>
             <p>• Ekip bilgilerini güncelle</p>
-            <!-- cookie değerlerini henüz güvenli hale getiremedim. base64 yeterince güvenli değil, dikkat edin -akiner
+            <!-- cookie değerlerini henüz güvenli hale getiremedim. base64 yeterince güvenli değil, dikkat edin -akiner -->
         </div>
     </div>
     <p><a href="/target">← Ana Sayfaya Dön</a></p>
