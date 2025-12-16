@@ -1,5 +1,5 @@
 # Siber Saldırı Simülasyonu
 <p>Kurulum && Kullanım:</p>
-<p>`cd cyber_attack_simulation`</p>
-<p>`pip install -r requirements.txt`</p>
-<p>`python app.py`</p>
+<p><code>cd cyber_attack_simulation</code></p>
+<p><code>pip install -r requirements.txt</code></p>
+<p><code>python app.py</code></p>
